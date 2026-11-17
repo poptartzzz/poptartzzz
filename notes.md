@@ -6,3 +6,4 @@
 - 2026-11-14 · fix a typo
 - 2026-11-15 · rpc was flaky, swapped endpoint
 - 2026-11-16 · cache the pair list
+- 2026-11-17 · bump deps
