@@ -9,3 +9,4 @@
 - 2026-11-17 · bump deps
 - 2026-11-18 · api returned 429, added backoff
 - 2026-11-19 · log the day
+- 2026-11-20 · api returned 429, added backoff
