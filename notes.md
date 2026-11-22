@@ -11,3 +11,4 @@
 - 2026-11-19 · log the day
 - 2026-11-20 · api returned 429, added backoff
 - 2026-11-21 · cache the pair list
+- 2026-11-22 · cache the pair list
