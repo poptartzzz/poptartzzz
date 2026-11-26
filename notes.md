@@ -14,3 +14,4 @@
 - 2026-11-22 · cache the pair list
 - 2026-11-23 · ponytail the funding flow
 - 2026-11-24 · clean logs
+- 2026-11-25 · bump deps
