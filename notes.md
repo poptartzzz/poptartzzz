@@ -15,3 +15,4 @@
 - 2026-11-23 · ponytail the funding flow
 - 2026-11-24 · clean logs
 - 2026-11-25 · bump deps
+- 2026-11-26 · api returned 429, added backoff
